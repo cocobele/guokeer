@@ -1,0 +1,80 @@
+.chosen {
+    background:#f0f0f0
+}
+
+#term div{
+    width:150px;
+    height:50px;
+    border:1px solid #000000;
+    margin-right:20px;
+    text-align:center;
+    line-height:50px;
+}
+
+.declare{
+    margin-top:10px;
+    background:#f0f0f0;
+    text-align:center;
+}
+
+
+.box{
+    padding-top: 70px;
+}
+.card{
+    margin-left: 20px;
+}
+
+.card p{
+    margin-left: 20px;
+    margin-top:5px ;
+    margin-bottom: 5px;
+}
+
+
+.cardText{
+    margin: auto;
+}
+
+#creditList .card{
+    margin-left: 20px;
+    width:170px;
+    height:180px;
+    background-color: #f0f0f0;
+    float: left;
+    padding:5px 5px 5px 5px;
+}
+#creditList .item{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+#myCarousel{
+    margin-left:auto;
+    margin-right:auto;
+    width:800px;
+    height:300px;
+}
+
+#myform{
+    margin-left:auto;
+    margin-right:auto;
+    width:800px;
+    height:300px;
+}
+
+#creditList{
+    margin-left:auto;
+    margin-right:auto;
+    width:880px;
+    height:300px;
+}
+
+#creditList img{
+    width: 160px;
+    height: 100px;
+}
+
+
+#creditList .carousel-control{
+    width: 50px;
+}
