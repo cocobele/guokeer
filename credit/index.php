@@ -88,13 +88,12 @@
 <div id="creditList" class="carousel slide" style="margin-top:100px;margin-bottom: 20px;">
     <!-- 轮播（Carousel）指标 -->
     <ol class="carousel-indicators">
-        <li data-target="#CreditList" data-slide-to="0" class="active"></li>
-        <li data-target="#CreditList" data-slide-to="1"></li>
+        <li data-target="#creditList" data-slide-to="0" class="active"></li>
+        <li data-target="#creditList" data-slide-to="1"></li>
     </ol>
     <!-- 轮播（Carousel）项目 -->
     <div class="carousel-inner">
         <div class="item active">
-            <div class="row">
                 <div class="card">
                     <img src="img/10002.jpg">
                     <div class="cardText">
@@ -135,35 +134,55 @@
                         </span>
                     </div>
                 </div>
-            </div>
         </div>
         <div class="item">
-            <div class="row">
                 <div class="card">
-                    <img src="img/10002.jpg">
+                    <img src="img/10165.jpg">
                     <div class="cardText">
-                        <p     style="font-size: 16px">交通银行信用卡</p>
-                        <p style="font-size: 12px">额度高</p>
-                        <p style="font-size: 12px">56天超长免息</p>
+                        <span>
+                            <p style="font-size: 16px">交通银行信用卡</p>
+                            <p style="font-size: 12px">额度高</p>
+                            <p style="font-size: 12px">56天超长免息</p>
+                        </span>
                     </div>
                 </div>
                 <div class="card">
                     <img src="img/10165.jpg">
                     <div class="cardText">
-                        <p     style="font-size: 16px">交通银行信用卡</p>
-                        <p style="font-size: 12px">额度高</p>
-                        <p style="font-size: 12px">56天超长免息</p>
+                       <span>
+                            <p     style="font-size: 16px">交通银行信用卡</p>
+                            <p style="font-size: 12px">额度高</p>
+                            <p style="font-size: 12px">56天超长免息</p>
+                        </span>
                     </div>
                 </div>
-            </div>
+                <div class="card">
+                    <img src="img/10165.jpg">
+                    <div class="cardText">
+                       <span>
+                            <p     style="font-size: 16px">交通银行信用卡</p>
+                            <p style="font-size: 12px">额度高</p>
+                            <p style="font-size: 12px">56天超长免息</p>
+                        </span>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="img/10165.jpg">
+                    <div class="cardText">
+                       <span>
+                            <p     style="font-size: 16px">交通银行信用卡</p>
+                            <p style="font-size: 12px">额度高</p>
+                            <p style="font-size: 12px">56天超长免息</p>
+                        </span>
+                    </div>
+                </div>
         </div>
-
-        <a class="carousel-control left" href="#CreditList" data-slide="prev"><span
-                class="glyphicon glyphicon-chevron-left"></span></a>
-        <a class="carousel-control right" href="#CreditList"  data-slide="next"><span
-                class="glyphicon glyphicon-chevron-right"></span></a>
-
     </div>
+
+    <a class="carousel-control left" href="#creditList" data-slide="prev"><span
+            class="glyphicon glyphicon-chevron-left"></span></a>
+    <a class="carousel-control right" href="#creditList"  data-slide="next"><span
+            class="glyphicon glyphicon-chevron-right"></span></a>
 
 </div>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -171,7 +190,6 @@
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <script src="js/fulai.js"></script>
-<script src="js/unslide.js"></script>
 
 </body>
 </html>
