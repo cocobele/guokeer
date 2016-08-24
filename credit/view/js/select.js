@@ -1,3 +1,4 @@
+
 var list1 = new Array;
 var list2 = new Array;
 list1[list1.length] = "北京市";
@@ -141,8 +142,3 @@ function selectprovince(obj) {
         ddlCity.appendChild(option);
     }
 }
-
-$('#term div').on('click',function(){
-    $('#term div').removeClass('chosen');
-    $(this).addClass('chosen');
-})

@@ -1,0 +1,109 @@
+body {
+    background: #f0f0f0 none repeat scroll 0 0;
+    font-family: Microsoft Yahei;
+    height: 100%;
+    margin: 0 auto;
+    max-width: 750px;
+}
+* {
+    -moz-text-size-adjust: none;
+    box-sizing: border-box;
+}
+.chosen {
+    background:DarkGray
+}
+
+#term div{
+    width:30%;
+    border:1px solid #000000;
+    margin-right:5px;
+    text-align:center;
+    border-radius:2em;
+    float: left;
+}
+
+.declare{
+    margin-top:10px;
+    background:#f0f0f0;
+    text-align:center;
+}
+
+#province,#city{
+    width:100%;
+
+}
+
+#myCarousel{
+    margin-left:auto;
+    margin-right:auto;
+    width:100%;
+}
+#myCarousel img{
+    margin-left:auto;
+    margin-right:auto;
+    width:100%;
+}
+
+#myform{
+    width:100%;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.insurance p {
+    border-bottom: 1px solid #e6e6e6;
+    color: #333;
+    font-size: 1.4rem;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 10px;
+}
+.insurance {
+    margin-top: 20px;
+    background: #fff none repeat scroll 0 0;
+    border-top: 1px solid #e6e6e6;
+}
+
+.credit_card {
+    padding: 10px;
+    width: 100%;
+}
+
+.card_left {
+    float: left;
+    height: 70px;
+    overflow: hidden;
+}
+
+.card_left img {
+    background-size: 100% 100%;
+    display: block;
+    float: left;
+    width: 106px;
+}
+
+.card_right button {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ff602c;
+    border-radius: 10px;
+    height: 25px;
+    margin-top: 5px;
+    width: 97px;
+}
+
+.insurance p span {
+    color: #999;
+    float: right;
+}
+
+.card_right button a {
+    color: #ff602c;
+}
+
+.selection{
+    padding-top: 20px;
+}
