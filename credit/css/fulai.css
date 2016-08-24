@@ -3,12 +3,12 @@
 }
 
 #term div{
-    width:150px;
-    height:50px;
+    width:30%;
     border:1px solid #000000;
-    margin-right:20px;
+    margin-right:5px;
     text-align:center;
     line-height:50px;
+    float: left;
 }
 
 .declare{
@@ -17,63 +17,46 @@
     text-align:center;
 }
 
-
-.box{
-    padding-top: 70px;
-}
-
-
-.cardText{
-    margin: auto;
+#province,#city{
+width:40%
 }
 
 #myCarousel{
     margin-left:auto;
     margin-right:auto;
-    width:800px;
-    height:300px;
+    width:100%;
 }
 
 #myform{
-    margin-left:auto;
-    margin-right:auto;
-    width:800px;
-    height:300px;
+    width:100%;
 }
 
 #creditList{
     margin-left:auto;
     margin-right:auto;
-    width:900px;
-    height:300px;
+    width:100%;
 }
 
 #creditList img{
     width: 160px;
-    height: 100px;
 }
 
 
 #creditList .carousel-control{
-    width: 50px;
-    height: 190px;
+    width: 10%;
 }
 
-#creditList .item{
-    margin-left: 70px;
-}
+
 
 #creditList .card{
-    margin-left: 20px;
     width:170px;
-    height:180px;
     background-color: #f0f0f0;
     float: left;
-    padding:5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px ;
+    margin:auto;
 }
 
-.card p{
-    margin-left: 20px;
-    margin-top:5px ;
-    margin-bottom: 5px;
+
+#creditList a{
+    background: none;
 }
