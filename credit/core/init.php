@@ -2,7 +2,8 @@
 
 if( !defined('AROOT') ) die('NO AROOT!');
 if( !defined('DS') ) define( 'DS' , DIRECTORY_SEPARATOR );
-
+// define constant
+define( 'IN' , true );
 define( 'ROOT' , dirname( __FILE__ ) . DS );
 define( 'CROOT' , ROOT . 'core' . DS  );
 
