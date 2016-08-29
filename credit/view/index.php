@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"">
     <title>credit card</title>
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/fulai.css" rel="stylesheet">
+    <link href="view/css/bootstrap.css" rel="stylesheet">
+    <link href="view/css/fulai.css" rel="stylesheet">
 
 
 </head>
 <body>
 <div class="container-fluid">
-    <div id="myCarousel" class="carousel slide" style="margin-bottom: 20px;">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel" style="margin-bottom: 20px;">
         <!-- 轮播（Carousel）指标 -->
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -21,10 +21,10 @@
         <!-- 轮播（Carousel）项目 -->
         <div class="carousel-inner">
             <div class="item active">
-                <img src="img/37.jpg" alt="First slide">
+                <img src="view/img/37.jpg" alt="First slide">
             </div>
             <div class="item">
-                <img src="img/38.png" alt="Second slide">
+                <img src="view/img/38.png" alt="Second slide">
             </div>
         </div>
         <!-- 轮播（Carousel）导航 -->
@@ -71,9 +71,9 @@
             <div class="form-group row">
                 <label for="term" class="col-xs-3 control-label">社保年限:</label>
                 <div class="col-xs-9" id="term">
-                    <div class="chosen">无社保</div>
-                    <div >半年内</div>
-                    <div>三年内</div>
+                    <div class="chosen" data-term="0">无社保</div>
+                    <div data-term="1">半年内</div>
+                    <div data-term="2">三年内</div>
 
                 </div>
             </div>
@@ -89,150 +89,36 @@
     </div>
 
     <div class="selection">
+        <?php foreach($creditList as $card):?>
         <div class="insurance" >
             <p>
-              交通银行沃尔玛信用卡普卡
+              <?php echo $card['1']?$card['1']:''?>
             </p>
             <div class="credit_card">
                 <div class="card_left">
-                        <img src="http://img.rongba.com/Public/yun/card/334.jpg">
+                        <img src="http://img.rongba.com/Public/yun/card/<?php echo $card['5']?$card['5']:''?>">
                 </div>
                 <div class="card_right">
                     <div>
-                        取现额度：<span>信用额的50%</span>
+                        取现额度：<span> <?php echo $card['2']?$card['2']:''?></span>
                     </div>
-                    <div style="margin-top:5px">免息期：<span>最长56天</span></div>
+                    <div style="margin-top:5px">免息期：<span> <?php echo $card['3']?$card['3']:''?></span></div>
                     <div style="margin-top:5px">
-                        发卡组织：<span>银联</span>
+                        发卡组织：<span> <?php echo $card['4']?$card['4']:''?></span>
                     </div>
-                    <button><a>立即申请</a></button>
+                    <button><a class="apply" cardid="<?php echo $card['0']?$card['0']:''?>">立即申请</a></button>
                 </div>
             </div>
         </div>
-        <div class="insurance" >
-            <p>
-                 光大“福”信用卡普卡
-            </p>
-            <div class="credit_card">
-                <div class="card_left">
-                    <img src="http://img.rongba.com/Public/yun/card/10002.jpg">
-                </div>
-                <div class="card_right">
-                    <div>
-                        取现额度：<span>信用额的50%</span>
-                    </div>
-                    <div style="margin-top:5px">免息期：<span>20天到50天</span></div>
-                    <div style="margin-top:5px">
-                        发卡组织：<span>银联+VISA</span>
-                    </div>
-                    <button><a>立即申请</a></button>
-                </div>
-            </div>
-        </div>
-        <div class="insurance" >
-            <p>
-                <a href="/Mobile/creditdetail/city/shanghai/bankids/13/card_id/334.html">交通银行沃尔玛信用卡普卡</a>
-            </p>
-            <div class="credit_card">
-                <div class="card_left">
-                    <img src="http://img.rongba.com/Public/yun/card/334.jpg">
-                </div>
-                <div class="card_right">
-                    <div>
-                        取现额度：<span>信用额的50%</span>
-                    </div>
-                    <div style="margin-top:5px">免息期：<span>最长56天</span></div>
-                    <div style="margin-top:5px">
-                        发卡组织：<span>银联</span>
-                    </div>
-                    <button><a>立即申请</a></button>
-                </div>
-            </div>
-        </div>
-        <div class="insurance" >
-            <p>
-                <a href="/Mobile/creditdetail/city/shanghai/bankids/13/card_id/334.html">交通银行沃尔玛信用卡普卡</a>
-            </p>
-            <div class="credit_card">
-                <div class="card_left">
-                    <img src="http://img.rongba.com/Public/yun/card/334.jpg">
-                </div>
-                <div class="card_right">
-                    <div>
-                        取现额度：<span>信用额的50%</span>
-                    </div>
-                    <div style="margin-top:5px">免息期：<span>最长56天</span></div>
-                    <div style="margin-top:5px">
-                        发卡组织：<span>银联</span>
-                    </div>
-                    <button><a>立即申请</a></button>
-                </div>
-            </div>
-        </div>
-        <div class="insurance" >
-            <p>
-                <a href="/Mobile/creditdetail/city/shanghai/bankids/13/card_id/334.html">交通银行沃尔玛信用卡普卡</a>
-            </p>
-            <div class="credit_card">
-                <div class="card_left">
-                    <img src="http://img.rongba.com/Public/yun/card/334.jpg">
-                </div>
-                <div class="card_right">
-                    <div>
-                        取现额度：<span>信用额的50%</span>
-                    </div>
-                    <div style="margin-top:5px">免息期：<span>最长56天</span></div>
-                    <div style="margin-top:5px">
-                        发卡组织：<span>银联</span>
-                    </div>
-                    <button><a>立即申请</a></button>
-                </div>
-            </div>
-        </div>
-    </div>
+        <?php endforeach;?>
 
-  <!--  <div id="creditList" class="carousel slide center-block" style="margin-top:100px;margin-bottom: 20px;">
-        <div class="carousel-inner">
-            <div class="item  active">
-                    <div class="card ">
-                        <img src="img/10002.jpg">
-                        <div class="cardText">
-                            <span>
-                                <h5>交通银行信用卡</h5>
-                                <h6 >额度高</h6>
-                                <h6 >56天超长免息</h6>
-                            </span>
-                        </div>
-                    </div>
-
-            </div>
-            <div class="item">
-                    <div class="card">
-                        <img src="img/10165.jpg">
-                        <div class="cardText">
-                            <span>
-                            <h5>交通银行信用卡</h5>
-                                <h6 >额度高</h6>
-                                <h6 >56天超长免息</h6>
-                            </span>
-                        </div>
-                    </div>
-            </div>
-        </div>
-
-        <a class="carousel-control left" href="#creditList" data-slide="prev"><span
-                class="glyphicon glyphicon-chevron-left"></span></a>
-        <a class="carousel-control right" href="#creditList"  data-slide="next"><span
-                class="glyphicon glyphicon-chevron-right"></span></a>
-
-    </div>-->
 </div>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="js/jQuery.js"></script>
+<script src="view/js/jQuery.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="js/bootstrap.min.js"></script>
-<script src="js/fulai.js"></script>
-<script src="js/select.js"></script>
+<script src="view/js/bootstrap.min.js"></script>
+<script src="view/js/fulai.js"></script>
+<script src="view/js/select.js"></script>
 
 </body>
 </html>

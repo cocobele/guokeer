@@ -4,17 +4,24 @@ class creditController
 {
     function __construct()
     {
-        echo 1;
     }
 
-    function  test(){
-        echo 2;
-    }
 
     function index()
     {
-        $data['title'] =$data['top_title'] = '信用卡申领';
-       // render( $data );
+        $data['creditList']=require(AROOT.'/data/cardlist.php');
+
+        @extract( $data );
+        require(AROOT.'/view/index.php');
     }
+
+    function getForm(){
+        $data=array();
+        foreach($_POST as $k=>$v){
+           $data[$k]=$v;
+       };
+
+    }
+
 
 }
