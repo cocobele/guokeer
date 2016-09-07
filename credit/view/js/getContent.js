@@ -13,7 +13,6 @@ $('#create').on('click',function(e){
         },
         dataType: "json",
         success: function(data) {
-            alert(data);
             window.open ('?c=createEmail&a=preview&filepath='+data.data);
         }
     })
