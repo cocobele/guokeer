@@ -1,0 +1,13 @@
+body {
+    background: #f0f0f0 none repeat scroll 0 0;
+    font-family: Microsoft Yahei;
+    height: 100%;
+    margin: 0 auto;
+    max-width: 750px;
+}
+
+.headImg img{
+    margin-left:auto;
+    margin-right:auto;
+    width:100%;
+}

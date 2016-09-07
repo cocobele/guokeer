@@ -36,25 +36,25 @@
     <div id="myform">
         <form class="form-horizontal">
             <div class="form-group row">
-                <label for="name" class="col-xs-3 control-label">真实姓名:</label>
+                <label for="name" class="col-xs-2 control-label">真实姓名:</label>
                 <div class="col-xs-9">
                     <input class="form-control" id="name" placeholder="请输入你的真实姓名">
                 </div>
             </div>
             <div class="form-group row">
-                <label for="phone" class="col-xs-3 control-label">手机号码:</label>
+                <label for="phone" class="col-xs-2 control-label">手机号码:</label>
                 <div class="col-xs-9">
                     <input type='phone' class="form-control" id="phone" placeholder="请输入手机号码">
                 </div>
             </div>
             <div class="form-group row">
-                <label for="idcard"  class="col-xs-3 control-label">身份证号:</label>
+                <label for="idcard"  class="col-xs-2 control-label">身份证号:</label>
                 <div class="col-xs-9">
                     <input class="form-control" id="idcard" placeholder="请输入身份证号">
                 </div>
             </div>
             <div class="form-group row control-label">
-                <label class="col-xs-3 control-label">选择地区:</label>
+                <label class="col-xs-2 control-label">选择地区:</label>
                 <div class="col-xs-4">
                     <select id="province" onchange="selectprovince(this);" ></select>
                 </div>
@@ -63,13 +63,13 @@
                 </div>
             </div>
             <div class="form-group row">
-                <label for="address" class="col-xs-3 control-label">收件地址:</label>
+                <label for="address" class="col-xs-2 control-label">收件地址:</label>
                 <div class="col-xs-9">
                     <input class="form-control" id="address" placeholder="请输入收件地址">
                 </div>
             </div>
             <div class="form-group row">
-                <label for="term" class="col-xs-3 control-label">社保年限:</label>
+                <label for="term" class="col-xs-2 control-label">社保年限:</label>
                 <div class="col-xs-9" id="term">
                     <div class="chosen" data-term="0">无社保</div>
                     <div data-term="1">半年内</div>

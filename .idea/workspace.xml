@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb959fc6-6810-4a42-83bf-6675c80a23e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/credit/data/cardlist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/credit/view/img/email/xiangcao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/credit/data/chengdu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/credit/controller/createEmail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/credit/view/css/getContent.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/credit/view/js/getContent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/credit/view/getContent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/credit/data/guangzhou.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/credit/view/index.php" afterPath="$PROJECT_DIR$/credit/view/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/credit/controller/credit.php" afterPath="$PROJECT_DIR$/credit/controller/credit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/credit/view/index.php" afterPath="$PROJECT_DIR$/credit/view/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/credit/view/js/fulai.js" afterPath="$PROJECT_DIR$/credit/view/js/fulai.js" />
     </list>
     <ignored path="guokeer.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,111 +26,162 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="guokeer" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/credit/view/index.php">
+    <leaf>
+      <file leaf-file-name="getContent.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/credit/view/getContent.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.125">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state line="43" column="18" selection-start="2044" selection-end="2044" vertical-scroll-proportion="-16.071428" vertical-offset="367" max-vertical-offset="1235">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="createEmail.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/credit/controller/createEmail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="50" selection-start="1952" selection-end="1952" vertical-scroll-proportion="0.80990785" vertical-offset="418" max-vertical-offset="2185">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chengdu.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/credit/data/chengdu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="114">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guangzhou.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/credit/data/guangzhou.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="259" selection-start="2125" selection-end="2129" vertical-scroll-proportion="-11.535714" vertical-offset="0" max-vertical-offset="1102">
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1473229696305" expanded="false" signature="26:38" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="39:4514" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="139:175" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="219:297" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="298:4506" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="312:343" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="358:373" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="408:442" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="457:471" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="563:578" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="593:646" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="695:772" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="801:834" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="922:937" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="952:1005" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="1071:1860" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="1079:1850" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="1084:1840" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="1103:1118" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="1133:1186" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="1276:1559" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="1290:1305" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="1306:1554" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="1320:1373" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="1374:1547" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="1396:1422" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="1437:1451" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="1452:1481" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="1496:1510" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="1511:1540" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="1573:1583" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="1634:1727" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="1756:1789" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="1884:1899" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="1914:1967" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="1982:1996" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="2046:2065" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="2066:4498" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="2083:2097" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="2164:2207" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="2222:2237" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="2355:3881" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="2363:3871" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="2368:3861" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="2381:2391" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="2392:3111" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="2411:2440" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="2475:2508" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="2523:2538" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="2576:2609" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="2624:2653" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="2691:2725" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="2740:2769" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="2811:2864" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="2913:2991" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="3020:3053" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="3125:3135" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="3136:3854" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="3154:3183" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="3218:3251" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="3266:3281" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="3319:3352" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="3367:3396" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="3434:3468" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="3483:3512" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="3554:3592" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="3641:3734" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="3763:3796" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="3938:4202" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="3947:4193" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="3951:4183" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="3981:3993" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="4164:4176" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="4231:4249" placeholder="..." />
+                <marker date="1473229696305" expanded="true" signature="4250:4490" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="4264:4278" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="4293:4308" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="4370:4384" placeholder="..." />
+                <marker date="1473229696305" expanded="false" signature="4399:4414" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fulai.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/credit/view/js/fulai.js">
+      <file leaf-file-name="autoload.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/credit/lib/vendor/autoload.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state line="7" column="0" selection-start="183" selection-end="183" vertical-scroll-proportion="-4.75" vertical-offset="0" max-vertical-offset="247">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="credit.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/credit/controller/credit.php">
+      <file leaf-file-name="getContent.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/credit/view/js/getContent.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47008547">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state line="19" column="2" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cardlist.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/credit/data/cardlist.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.25">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fulai.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="fulai.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/credit/view/css/fulai.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+            <state line="40" column="0" selection-start="593" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2166">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/credit/config/config.php">
+      <file leaf-file-name="getContent.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/credit/view/css/getContent.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.375">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/credit/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.25">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="init.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/credit/core/init.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.75">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="credit.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/credit/credit.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0">
-              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="43" selection-end-column="87" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="select.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/credit/view/js/select.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+            <state line="8" column="12" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
               <folding />
             </state>
           </provider>
@@ -144,13 +198,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+    <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/credit/credit.sql" />
-        <option value="$PROJECT_DIR$/credit/data/cardlist.php" />
-        <option value="$PROJECT_DIR$/credit/view/js/fulai.js" />
         <option value="$PROJECT_DIR$/credit/view/index.php" />
-        <option value="$PROJECT_DIR$/credit/controller/credit.php" />
+        <option value="$PROJECT_DIR$/credit/lib/DomParser.php" />
+        <option value="$PROJECT_DIR$/credit/data/chengdu.php" />
+        <option value="$PROJECT_DIR$/credit/data/guangzhou.php" />
+        <option value="$PROJECT_DIR$/credit/view/css/getContent.css" />
+        <option value="$PROJECT_DIR$/credit/view/getContent.php" />
+        <option value="$PROJECT_DIR$/credit/view/js/getContent.js" />
+        <option value="$PROJECT_DIR$/credit/controller/createEmail.php" />
       </list>
     </option>
   </component>
@@ -159,14 +216,12 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
-  <component name="PhpServers">
-    <servers />
-  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="823" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -182,7 +237,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -192,12 +247,8 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -230,47 +281,94 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guokeer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guokeer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="credit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guokeer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guokeer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="credit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guokeer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guokeer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="credit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/branch" />
+    <property name="last_opened_file_path" value="F:/haowu_hehuoren/haowu_system" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\www\lixu\guokeer\credit\view\img\email" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\www\lixu\guokeer\credit\view" />
       <recent name="E:\www\lixu\guokeer\credit\config" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
-      <BehatRunner />
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <envs />
-      <method />
-    </configuration>
+    <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -280,240 +378,513 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="cb959fc6-6810-4a42-83bf-6675c80a23e7" name="Default" comment="" />
       <created>1471968189693</created>
-      <option name="number" value="Default" />
       <updated>1471968189693</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20972222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24955331" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24955331" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21671991" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24955331" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21671991" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="3" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/credit/view/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="131" column="29" selection-start-line="131" selection-start-column="29" selection-end-line="131" selection-end-column="29" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/credit/view/css/fulai.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/credit/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/credit/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/credit/core/init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/credit/view/js/fulai.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/credit/view/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/credit/view/js/select.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2850">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/credit/view/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/credit/view/css/fulai.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state line="20" column="31" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="2451">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/credit/view/js/fulai.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state line="35" column="2" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0" vertical-offset="665" max-vertical-offset="779">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/credit/view/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/credit/controller/credit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/credit/view/css/fulai.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/credit/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/credit/credit.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="43" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/credit/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/credit/core/init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/credit/view/js/select.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+        <state line="22" column="0" selection-start="399" selection-end="400" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="608">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/credit/data/cardlist.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="418">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/credit/view/js/fulai.js">
+    <entry file="file://$PROJECT_DIR$/credit/view/css/fulai.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2166">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="266">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/core/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/credit.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="950">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/js/select.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2850">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/credit/view/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.125">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2451">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/js/fulai.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="779">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/credit/controller/credit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47008547">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/data/cardlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="418">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/css/fulai.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2166">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="266">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/core/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/credit.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="950">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/js/select.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/css/fulai.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/core/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/js/fulai.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/js/select.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/css/fulai.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/js/fulai.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/js/select.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/credit.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/core/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/img/email/xiangcao.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/css/fulai.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="593" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2166">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/css/getContent.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="12" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/data/cardlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/controller/credit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="41" selection-start="240" selection-end="274" vertical-scroll-proportion="0.30645162" vertical-offset="0" max-vertical-offset="868">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="41" selection-start="893" selection-end="908" vertical-scroll-proportion="-1.0288018" vertical-offset="1330" max-vertical-offset="2451">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/js/fulai.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="2" selection-start="867" selection-end="867" vertical-scroll-proportion="0.7421875" vertical-offset="0" max-vertical-offset="896">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/lib/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="183" selection-end="183" vertical-scroll-proportion="-4.75" vertical-offset="0" max-vertical-offset="247">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/getContent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="18" selection-start="2044" selection-end="2044" vertical-scroll-proportion="-16.071428" vertical-offset="367" max-vertical-offset="1235">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/view/js/getContent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="2" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/data/chengdu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="114">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/data/guangzhou.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="259" selection-start="2125" selection-end="2129" vertical-scroll-proportion="-11.535714" vertical-offset="0" max-vertical-offset="1102">
+          <folding>
+            <marker date="1473229696305" expanded="false" signature="26:38" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="39:4514" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="139:175" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="219:297" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="298:4506" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="312:343" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="358:373" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="408:442" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="457:471" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="563:578" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="593:646" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="695:772" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="801:834" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="922:937" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="952:1005" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="1071:1860" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="1079:1850" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="1084:1840" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="1103:1118" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="1133:1186" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="1276:1559" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="1290:1305" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="1306:1554" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="1320:1373" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="1374:1547" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="1396:1422" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="1437:1451" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="1452:1481" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="1496:1510" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="1511:1540" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="1573:1583" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="1634:1727" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="1756:1789" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="1884:1899" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="1914:1967" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="1982:1996" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="2046:2065" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="2066:4498" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="2083:2097" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="2164:2207" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="2222:2237" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="2355:3881" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="2363:3871" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="2368:3861" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="2381:2391" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="2392:3111" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="2411:2440" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="2475:2508" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="2523:2538" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="2576:2609" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="2624:2653" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="2691:2725" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="2740:2769" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="2811:2864" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="2913:2991" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="3020:3053" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="3125:3135" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="3136:3854" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="3154:3183" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="3218:3251" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="3266:3281" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="3319:3352" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="3367:3396" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="3434:3468" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="3483:3512" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="3554:3592" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="3641:3734" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="3763:3796" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="3938:4202" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="3947:4193" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="3951:4183" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="3981:3993" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="4164:4176" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="4231:4249" placeholder="..." />
+            <marker date="1473229696305" expanded="true" signature="4250:4490" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="4264:4278" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="4293:4308" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="4370:4384" placeholder="..." />
+            <marker date="1473229696305" expanded="false" signature="4399:4414" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/controller/createEmail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="50" selection-start="1952" selection-end="1952" vertical-scroll-proportion="0.80990785" vertical-offset="418" max-vertical-offset="2185">
           <folding />
         </state>
       </provider>
     </entry>
   </component>
 </project>
+
