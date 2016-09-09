@@ -57,17 +57,17 @@ class createEmailController
 
     function replaceHtml($html,$data,$word=''){
         if($word){
-            $html=str_replace('%%word-1%%',$word['1'],$html);
-            $html=str_replace('%%word-2%%',$word['2'],$html);
+            $html=mb_ereg_replace('%%word-1%%',$word['1'],$html);
+            $html=mb_ereg_replace('%%word-2%%',$word['2'],$html);
         }
         $i=0;
         foreach($data as $one){
-            $html=str_replace('%%url-'.$i.'%%',$one['url'],$html);
-            $html=str_replace('%%name-'.$i.'%%',$one['name'],$html);
-            $html=str_replace('%%payment-'.$i.'%%',$one['pay'],$html);
-            $html=str_replace('%%company-'.$i.'%%',$one['company'],$html);
+            $html=mb_ereg_replace('%%url-'.$i.'%%',$one['url'],$html);
+            $html=mb_ereg_replace('%%name-'.$i.'%%',$one['name'],$html);
+            $html=mb_ereg_replace('%%payment-'.$i.'%%',$one['pay'],$html);
+            $html=mb_ereg_replace('%%company-'.$i.'%%',$one['company'],$html);
             if($i==0){
-                $html=str_replace('%%img%%',$one['img'],$html);
+                $html=mb_ereg_replace('%%img%%',$one['img'],$html);
             }
             $i++;
         }
