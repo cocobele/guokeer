@@ -5,6 +5,7 @@ $('#create').on('click',function(e){
         type: "POST",
         url: "?c=createEmail&a=create",
         data: {
+            'city' : $('#city').val(),
             'url-1': $('#url-1').val(),
             'url-2': $('#url-2').val(),
             'url-3': $('#url-3').val(),

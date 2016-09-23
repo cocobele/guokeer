@@ -13,6 +13,18 @@
     <div id="myform">
         <form class="form-horizontal">
             <div class="form-group row">
+                <label for="name" class="col-xs-2 control-label">对应城市:</label>
+                <div class="col-xs-9">
+                    <select class="form-control" id="city" >
+                        <option >请选择投放城市</option>
+                        <option value="chengdu">成都</option>
+                        <option value="xian">西安</option>
+                        <option value="shenzhen">深圳</option>
+                        <option value="guangzhou">广州</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group row">
                 <label for="name" class="col-xs-2 control-label">首栏岗位:</label>
                 <div class="col-xs-9">
                     <input class="form-control" id="url-1" placeholder="请输入你的首栏岗位url">

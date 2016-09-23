@@ -48,18 +48,26 @@ return '<table><tr><td><div style="width:700px;"><img src="http://edm.jyedm015.c
  </tbody>
  </table>
  &nbsp;
- &nbsp;
- <table cellpadding="5%" height="114" width="581">  <tbody><tr> <td valign="top" width="20%"><br />
-</td>
-<td align="center" valign="center"><img src="http://edm.jyedm015.com/draft/142541419/20160901025004_76389.jpg" alt="" border="0" /></td>
- <td valign="center" width="20%"><br />
-</td>
- </tr>
- </tbody>
+ <table style="height:120px;width:600px;" cellpadding="5%">	<tbody>		<tr>
+ 		<td style="width:85px;" valign="center"><img src="http://edm.gksend003.com/draft/143930197/20160914204134_40165.jpg" alt="" border="0" height="100" width="100" /></td>
+			<td valign="center"><font color="#8e8a8b"><span style="font-size:12px;"><p style="margin-bottom:5px;margin-top:0px;">求职咨询</p>
+<p style="margin-bottom:5px;margin-top:5px;">			六大城区</p>
+<p style="margin-bottom:5px;margin-top:5px;">			求职交友</p>
+<p style="margin-bottom:5px;margin-top:5px;">			线下聚会</p>
+</span></font> </td>
+			<td style="width:85px;" valign="center"><img src="http://edm.gksend003.com/draft/143930197/20160914204920_27905.jpg" alt="" border="0" height="106" width="106" /></td>
+			<td valign="center"><font color="#8e8a8b"><span style="font-size:12px;"><p style="margin-bottom:5px;margin-top:0px;">预约面试</p>
+<p style="margin-bottom:5px;margin-top:5px;">面试提醒</p>
+<p style="margin-bottom:5px;margin-top:5px;">最新岗位</p>
+<p style="margin-bottom:5px;margin-top:5px;">职位订阅</p>
+</span></font></td>
+		</tr>
+	</tbody>
 </table>
- &nbsp;<hr />
- <div style="text-align:center;"><span style="color:#696969;"><span style="font-size:12px;">如有任何问题，可以与我们联系，我们将尽快为你解答。</span></span><br />
- <span style="color:#808080;"><span style="font-size:12px;">客服qq:991361073 &nbsp; 香草招聘广州群：222752556&nbsp;</span></span> <p></p>
+&nbsp;<hr />
+<div style="text-align:center;"><span style="color:#696969;"><span style="font-size:12px;">如有任何问题，可以与我们联系，我们将尽快为你解答。</span></span><br />
+<br />
+ <p></p>
  </div>
  </div>
  </div>

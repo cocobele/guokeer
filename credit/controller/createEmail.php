@@ -21,6 +21,7 @@ class createEmailController
         $url_3=$_POST['url-3'];
         $word_1=$_POST['word-1'];
         $word_2=$_POST['word-2'];
+        $city=$_POST['city'];
         $data[0]= $this->getData($url_1);
         $data[1]= $this->getData( $url_2);
         $data[2]= $this->getData($url_3);
@@ -32,8 +33,9 @@ class createEmailController
         $data[2]= $this->getData('http://www.xiangcaozhaopin.com/weixin/jd/147697?_ch=cd.yy.sem.16080901');
         $word['1']='你想成为国内最大的在线社区的缔造者？全国互联网行业专利拥有量居首的创新者？并期望与国内国际牛人为伍？拥有工作与生活的平衡？加入腾讯。成都欢迎您！';
         $word['2']='腾讯新建成都大楼，只有你想不到的福利待遇，免费班车，免费夜宵、免费体检、年度旅游、带薪年假、节日礼物、员工Q点、社团活动、部门活动等等，晋升有道，待遇你无需担心。';*/
-        $html=require(AROOT.'/data/guangzhou.php');
-        $content=$this->replaceHtml($html,$data,$word);
+        $html=require(AROOT.'/data/'.$city.'.php');
+
+        $content=$this->replaceHtml($html,$data,$word,1);
         $filepath=AROOT.'/cache/'.md5($content).'.php';
         $this->write($content,$filepath);
         $message['status']=1;
@@ -55,7 +57,7 @@ class createEmailController
         fclose($myfile);
     }
 
-    function replaceHtml($html,$data,$word=''){
+    function replaceHtml($html,$data,$word='',$c=0){
         if($word){
             $html=mb_ereg_replace('%%word-1%%',$word['1'],$html);
             $html=mb_ereg_replace('%%word-2%%',$word['2'],$html);
@@ -68,6 +70,9 @@ class createEmailController
             $html=mb_ereg_replace('%%company-'.$i.'%%',$one['company'],$html);
             if($i==0){
                 $html=mb_ereg_replace('%%img%%',$one['img'],$html);
+            }
+            if($c==1){
+                $html=mb_ereg_replace('%%img-'.$i.'%%',$one['img'],$html);
             }
             $i++;
         }
@@ -105,6 +110,7 @@ class createEmailController
         $str=$oDom->find('.ci-h-info .bod-h70',0)->getAttr('style');
         $str=explode('(',$str)[1];
         $str=explode(')',$str)[0];
+        $str=mb_ereg_replace('@120w_120h.src','',$str);
         return $str;
     }
 }
