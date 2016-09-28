@@ -2,7 +2,10 @@
 return '<table><tr><td><div style="width:700px;"><img src="http://edm.jyedm015.com/draft/142541419/2374e311-37cf-4654-9bd7-1b4f9b1d7abd.png" style="width:700px;height:145px;margin:0px;" align="none" width="100%" />
  <div style="padding:0px 40px 5px 40px;font-family:微软雅黑;margin-right:auto;margin-left:auto;"><span style="font-family:微软雅黑;line-height:2;"><span style="font-size:14px;">亲爱的，您好:</span></span>
  <p style="margin-bottom:10px;margin-top:5px;"><span style="color:#fe2419;">&nbsp;&nbsp;&nbsp;&nbsp;百度公司</span>%%word-1%%</p>
- &nbsp;<div align="center"><span style="font-size:14px;"><span style="font-family:微软雅黑,helvetica neue,helvetica,sans-serif;"><font color="#ffffff" face="微软雅黑"><span style="background:#f04d52;border:1px solid #dddddd;font-size:16px;padding:10px 25px;"><a href="%%url-0%%" style="text-decoration:none;color:white;" target="_blank">完善简历 快速面试</a></span></font></span></span></div>
+ &nbsp;<div align="center"><span style="font-size:14px;"><span style="font-family:微软雅黑,helvetica neue,helvetica,sans-serif;"><font color="#ffffff" face="微软雅黑">
+ <span style="background:#f04d52;border:1px solid #dddddd;font-size:16px;padding:10px 25px;">
+ <a href="http://www.xiangcaozhaopin.com/mob/semAll?_ch=sz.yy.sem.16080501" style="text-decoration:none;color:white;" target="_blank">完善简历 快速面试</a>
+ </span></font></span></span></div>
  <br />
  <span style="font-size:14px;"><span style="font-family:微软雅黑,helvetica neue,helvetica,sans-serif;">以下是邀请你的职位：</span></span> <hr />
  <table height="116" width="447"> <tbody> <tr> <td><span style="font-size:12px;"><span style="font-family:微软雅黑,helvetica neue,helvetica,sans-serif;"><img src="%%img%%" alt="" border="0" height="99" width="130" /> </span></span></td>

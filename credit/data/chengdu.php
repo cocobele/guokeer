@@ -17,18 +17,34 @@ return '<table><tr><td><div style="width:700px;"><img src="http://edm.jyedm015.c
  <br />
  <span style="font-size:14px;"><span style="font-family:微软雅黑,helvetica neue,helvetica,sans-serif;"><span style="color:#000000;">PS：Ta还给你捎了句话哦~</span></span></span> <div style="text-align:justify;"><p><span style="color:#a7a4a4;">&nbsp;&nbsp;&nbsp;&nbsp;%%word-2%%</span></p>
  &nbsp;<div style="background:#f5f5f5;padding:5px 5px 5px 5px;"><span style="font-size:14px;">更多热招职位</span></div>
- <table rules="cols" border="1" bordercolor="#F5F5F5" cellpadding="15%" height="120" width="581"> <tbody> <tr> <td style="width:50%;">
- <p><span style="color:#ff0000;font-size:14px;">%%name-1%%</span></p>
+  <table rules="cols" border="1" bordercolor="#F5F5F5" cellpadding="15%" height="120" width="581"> <tbody> <tr>
+<tr>
+<td colspan="2" align="center"><p><span style="color:#ff0000;font-size:16px;">%%name-1%%</span></p></td>
+<td colspan="2" align="center"> <p><span style="color:#ff0000;font-size:16px;">%%name-2%%</span></p></td>
+</tr>
+<tr>
+<td valign="center"><img src="%%img-1%%" alt="" border="0"  width="100" /></td>
+ <td style="width:35%;">
  <p style="margin-bottom:5px;margin-top:5px;"><span style="font-size:18px;">%%payment-1%%</span></p>
  <p style="margin-bottom:5px;margin-top:5px;"><span style="color:#767173;font-size:12px;">%%company-1%%</span></p>
  <p style="margin-bottom:15px;margin-top:5px;"><span style="color:#8e8a8b;font-size:12px;">提供四餐/交通补贴/五险一金</span></p>
- <span style="font-size:18px;font-family:verdana,geneva,sans-serif;"><font color="#ffffff" face="微软雅黑"><span style="background:#f04d52;border:1px solid #dddddd;line-height:21px;padding:3px 10px;"><a href="%%url-1%%" style="text-decoration:none;color:white;" target="_blank">马上查看</a></span></font></span> &nbsp;</td>
- <td style="width:50%;"> <p><span style="color:#ff0000;font-size:14px;">%%name-2%%</span></p>
+ </td>
+ <td valign="center"><img src="%%img-2%%" alt="" border="0"  width="100" /></td>
+ <td style="width:35%;">
  <p style="margin-bottom:5px;margin-top:5px;"><span style="font-size:18px;">%%payment-2%%</span></p>
  <p style="margin-bottom:5px;margin-top:5px;"><span style="color:#767173;font-size:12px;">%%company-2%%</span></p>
  <p style="margin-bottom:15px;margin-top:5px;"><span style="color:#8e8a8b;font-size:12px;">五险一金/带薪年假/福利完善</span></p>
- <span style="font-family:verdana,geneva,sans-serif;"><font color="#ffffff" face="微软雅黑"><span style="font-size:18px;background:#f04d52;border:1px solid #dddddd;line-height:21px;padding:3px 10px;"><a href="%%url-2%%" style="text-decoration:none;color:white;" target="_blank">马上查看</a></span></font></span> &nbsp;</td>
+
+ </td>
  </tr>
+ <tr>
+<td colspan="2" align="center">  <span style="font-family:verdana,geneva,sans-serif;"><font color="#ffffff" face="微软雅黑">
+<span style="font-size:18px;background:#f04d52;border:1px solid #dddddd;line-height:21px;padding:3px 25px;">
+ <a href="%%url-1%%" style="text-decoration:none;color:white;" target="_blank">马上查看</a></span></font></span> &nbsp; &nbsp;</td>
+<td colspan="2" align="center">  <span style="font-family:verdana,geneva,sans-serif;"><font color="#ffffff" face="微软雅黑">
+<span style="font-size:18px;background:#f04d52;border:1px solid #dddddd;line-height:21px;padding:3px 25px;">
+ <a href="%%url-2%%" style="text-decoration:none;color:white;" target="_blank">马上查看</a></span></font></span> &nbsp;</td>
+</tr>
  </tbody>
  </table>
  &nbsp;<table style="height:120px;width:600px;" cellpadding="5%"> <tbody> <tr> <td style="width:85px;" valign="center"><img src="http://edm.gksend.com/draft/141921599/fedaef0c-3f74-4f43-96cf-6ead7568c25b.jpg" alt="" border="0" height="100" width="100" /></td>
